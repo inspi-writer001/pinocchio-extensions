@@ -1,3 +1,4 @@
+pub mod cpi_guard;
 pub mod memo_transfer;
 pub mod pausable;
 
