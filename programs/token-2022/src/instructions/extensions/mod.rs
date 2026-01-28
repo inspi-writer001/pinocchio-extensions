@@ -6,5 +6,4 @@ pub mod pausable;
 pub enum ExtensionDiscriminator {
     MemoTransfer = 30,
     Pausable = 44,
-    CpiGuard = 34,
 }
